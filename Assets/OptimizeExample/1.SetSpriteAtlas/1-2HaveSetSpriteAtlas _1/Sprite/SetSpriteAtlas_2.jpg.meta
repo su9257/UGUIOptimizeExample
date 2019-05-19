@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0552a39a5f30d084d901a43f5229e6fd
+guid: 592f6fa555de83f49b038811208d1365
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -97,12 +97,12 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5b27e1537c1cfd74abd07a6445c0597d
+    spriteID: b7445ae992252b242a1785b502ad76cb
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 4
+  spritePackingTag: 1-2HaveSetSpriteAtlas _1
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
