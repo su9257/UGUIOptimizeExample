@@ -61,7 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ExampleAsset\example9\Example9.cs" />
+    <Compile Include="Assets\OptimizeExample\10.DebugUILine\Script\DebugUILine.cs" />
     <Compile Include="Assets\OptimizeExample\7.AnimationColor\ChangeMaterialColor.cs" />
+    <Compile Include="Assets\OptimizeExample\8.ReceiveRaycast\Script\Empty4Raycast.cs" />
+    <Compile Include="Assets\OptimizeExample\8.ReceiveRaycast\Script\ReceiveRaycast.cs" />
+    <Compile Include="Assets\OptimizeExample\9.Overdraw\Script\PolygonImage.cs" />
     <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity_Project/UGUIOptimizeExample/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
